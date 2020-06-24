@@ -1,11 +1,11 @@
 {
-    "name": "NicoDG/freshdesk-laravel",
+    "name": "nicodg/freshdesk-laravel",
     "description": "Laravel package for the Freshdesk API (v2)",
-    "homepage": "https://github.com/NicoDG/freshdesk-laravel",
+    "homepage": "https://github.com/nicodg/freshdesk-laravel",
     "keywords": ["freshdesk", "customer service", "support", "help desk", "api", "laravel"],
     "type": "laravel-package",
     "require": {
-        "NicoDG/freshdesk-php-sdk": "0.3.*",
+        "nicodg/freshdesk-php-sdk": "0.3.*",
         "illuminate/support": "~5.1"
     },
     "require-dev": {
@@ -16,7 +16,8 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/NicoDG/freshdesk-php-sdk"
+            "url": "https://github.com/
+            G/freshdesk-php-sdk"
         }
     ],
     "license": "MIT",
