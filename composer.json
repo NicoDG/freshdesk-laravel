@@ -16,8 +16,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/
-            G/freshdesk-php-sdk"
+            "url": "https://github.com/nicodg/freshdesk-php-sdk"
         }
     ],
     "license": "MIT",
